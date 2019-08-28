@@ -3,9 +3,6 @@
 根据开源项目 [vue-sell](https://github.com/ustbhuangyi/vue-sell)进行的开发，将其改造成了react的项目。在开始学习vue的时候就是用的这个项目，发现效果不错，所以在学习React也使用了此项目。
 
 目的:将此项目改造成React项目，在此过程中学习React用法，和比较与Vue的不同
-## 在线演示
-------
-[demo](http://www.ytmty.xin/react/#/)
 
 ## 技术栈
 ------
@@ -30,5 +27,4 @@ react + redux + react-redux + react-router + webpack + ES6
 ------
 在过程中遇到的问题：[参考链接](https://github.com/ytxbnahn/ytxbnahn.github.io/issues/6)
 
-## TODO
-修改代码中的bug
+
